@@ -1,5 +1,8 @@
-{
-    "features": {
-        "tbi": "false"
+[
+    {
+        "tbi": false
+    },
+    {
+        "casa-verde": false
     }
-}
+]
