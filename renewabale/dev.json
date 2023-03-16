@@ -1,8 +1,10 @@
 [
     {
-        "tbi": true
+        "name": "tbi",
+        "enabled": true
     },
     {
-        "casa-verde": true
+        "name": "casa-verde",
+        "enabled": true
     }
 ]
