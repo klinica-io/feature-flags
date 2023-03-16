@@ -5,7 +5,7 @@
     },
     {
         "name": "tbi-offer-submitted-email",
-        "enabled": false
+        "enabled": true
     },
     {
         "name": "casa-verde",
