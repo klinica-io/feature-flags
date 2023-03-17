@@ -9,7 +9,7 @@
     },
     {
         "name": "automated-offer",
-        "enabled": false
+        "enabled": true
     },
     {
         "name": "casa-verde",
