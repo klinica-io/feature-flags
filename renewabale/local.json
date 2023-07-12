@@ -13,7 +13,7 @@
     },
     {
         "name": "casa-verde",
-        "enabled": false
+        "enabled": true
     },
     {
         "name": "it",
